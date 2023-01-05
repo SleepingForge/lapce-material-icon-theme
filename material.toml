@@ -47,6 +47,7 @@ name = "Material Icons"
 "cpp" = "icons/cpp.svg"
 "c++" = "icons/cpp.svg"
 "cs" = "icons/csharp.svg"
+"css" = "icons/css.svg"
 "cmake" = "icons/cmake.svg"
 
 "h" = "icons/h.svg"
